@@ -1,6 +1,6 @@
 # 🚀 Fintech Project Management Performance Analytics Report
 
-*Built with Power BI + ZoomCharts*
+*Built with Power BI + ZoomCharts visuals*
 
 ## 📌 Overview
 
@@ -52,7 +52,7 @@ Color-coded measures automatically highlight performance hotspots.
 
 ## 🧭 Report Navigation (3 Interactive Pages)
 
-### ⭐ Page 1 – Portfolio Performance & Budget Efficiency
+### ⭐ Page 1 – Executive Dashboard
 
 **Objective:** Identify top-level project health, spending gaps & risk exposure.
 **Insights provided:**
@@ -74,7 +74,7 @@ Color-coded measures automatically highlight performance hotspots.
 
 ---
 
-### 💼 Page 2 – Workforce Cost & Efficiency Analysis
+### 💼 Page 2 – Resource and Cost Analysis
 
 **Objective:** Measure how talent investment translates into performance.
 **Key visuals:**
@@ -90,7 +90,7 @@ Color-coded measures automatically highlight performance hotspots.
 
 ---
 
-### 🧩 Page 3 – Performance & Productivity Impact Analysis
+### 🧩 Page 3 – Operational Insights
 
 **Objective:** Compare time performance vs financial efficiency.
 **Visuals:**
@@ -161,6 +161,7 @@ Color-coded measures automatically highlight performance hotspots.
 **Emmanuel Idowu**
 Data Analyst | Power BI | SQL | Excel | Financial & Operational Analytics
 📩 Connect: LinkedIn Profile or DM [HERE](https://www.linkedin.com/in/emmanuel-idowu-analyst/)
+Check me on Youtube [HERE](https://www.youtube.com/@Emmy-The-Analyst)
 
 ---
 
